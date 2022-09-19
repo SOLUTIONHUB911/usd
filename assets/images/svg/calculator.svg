@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69" height="69" viewBox="0 0 69 69">
+    <defs>
+        <style>
+            .cls-1{fill:#fec401}
+        </style>
+    </defs>
+    <g id="calculator_1_" data-name="calculator (1)" transform="translate(5 8.773)">
+        <path id="Path_152" d="M21.848 14.392h-5.326V9.065a1.065 1.065 0 1 0-2.131 0v5.326H9.065a1.065 1.065 0 1 0 0 2.131h5.326v5.326a1.065 1.065 0 0 0 2.131 0v-5.326h5.326a1.065 1.065 0 0 0 0-2.131z" class="cls-1" data-name="Path 152" transform="translate(-2.347 -5.297)"/>
+        <path id="Path_153" d="M49.848 14H37.065a1.065 1.065 0 0 0 0 2.131h12.783a1.065 1.065 0 1 0 0-2.131z" class="cls-1" data-name="Path 153" transform="translate(3.741 -5.971)"/>
+        <path id="Path_154" d="M35.69 0H0v69h69V0zM2.379 2.379H33.31V33.31H2.379zm0 64.241V35.69H33.31v30.931zm64.241 0H35.69V35.69h30.931zM35.69 33.31V2.379h30.931V33.31z" class="cls-1" data-name="Path 154" transform="translate(-5 -8.773)"/>
+        <path id="Path_155" d="M37.065 47.131h12.783a1.065 1.065 0 1 0 0-2.131H37.065a1.065 1.065 0 0 0 0 2.131z" class="cls-1" data-name="Path 155" transform="translate(3.741 1.379)"/>
+        <path id="Path_156" d="M37.065 41.131h12.783a1.065 1.065 0 1 0 0-2.131H37.065a1.065 1.065 0 0 0 0 2.131z" class="cls-1" data-name="Path 156" transform="translate(3.741 .987)"/>
+        <path id="Path_157" d="M21.471 37.312a1.064 1.064 0 0 0-1.506 0l-4.573 4.573-4.573-4.573a1.065 1.065 0 1 0-1.506 1.506l4.573 4.573-4.574 4.574a1.065 1.065 0 1 0 1.506 1.506l4.574-4.571 4.573 4.573a1.065 1.065 0 0 0 1.506-1.506L16.9 43.392l4.573-4.573a1.064 1.064 0 0 0-.002-1.507z" class="cls-1" data-name="Path 157" transform="translate(-2.282 -1.274)"/>
+    </g>
+</svg>

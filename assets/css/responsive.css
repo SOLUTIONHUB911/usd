@@ -1,0 +1,417 @@
+
+@media only screen  and (min-width: 992px)   and (max-width: 1199px) {
+    .top_menu li {
+        padding: 0 0 0 3%;
+    }
+
+    .main-menu .navbar-expand-lg .navbar-nav a.nav-link {
+        padding: 3px 30px;
+    }
+
+    .pro_per li {
+        font-size: 15px;
+    }
+
+    select.form-control {
+        font-size: 15px;
+    }
+
+    .plan_title {
+        font-size: 20px;
+        margin: 0 auto 10px;
+        padding: 10px 0px 0px 0;
+    }
+
+    .plan_percentage {
+        font-size: 30px;
+        text-align: left;
+        color: #000a1c;
+        max-width: 60%;
+        margin: 15px auto;
+    }
+
+    .address {
+        max-width: 180px;
+    }
+
+    .profit_calc select.form-control {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 991px) {
+
+    .main-menu .navbar-expand-lg .navbar-nav li.nav-item.active a.nav-link::before, .main-menu .navbar-expand-lg .navbar-nav li.nav-item:hover a.nav-link::before {
+        left: 50px;
+        transform: rotate(-90deg) translateY(-50%);
+        top: 40%;
+    }
+
+    .main-menu .navbar-expand-lg .navbar-nav a.nav-link {
+        border-right: 0;
+    }
+
+    .navbar-toggler-icon.fa.fa-bars {
+        height: auto;
+        width: auto;
+    }
+
+    #fixed.menu {
+        position: absolute;
+        right: 0;
+    }
+
+    .main-menu nav.navbar {
+        background-color: transparent;
+        position: relative;
+    }
+
+    .main-menu nav.navbar #navbarTogglerDemo02 {
+        background-color: #fec401;
+        max-width: 350px;
+        right: 0;
+        position: absolute;
+        width: 100%;
+        top: 8px;
+    }
+
+    .navbar-toggler {
+        background-color: #fec401;
+        position: absolute;
+        right: 0;
+        top: -25px;
+        font-size: 25px;
+        height: auto;
+    }
+
+    .top_menu li {
+        padding: 0 0 0 0%;
+    }
+
+    #fixed.menu.is-fixed {
+        position: fixed;
+        top: 50px;
+    }
+}
+
+@media only screen  and (min-width: 768px)   and (max-width: 991px) {
+    .profit_calc img {
+        max-width: 50px;
+    }
+
+    select.form-control {
+        font-size: 12px;
+        background-size: 5px;
+        padding: 0 0;
+    }
+
+    .pro_per li {
+        font-size: 10px;
+    }
+
+    .about_us_content p.paragraph {
+        font-size: 12px;
+    }
+
+    .diamond {
+        max-width: 100px;
+        height: 100px;
+    }
+
+    .diamond::after, .diamond::before {
+        top: 50px;
+        border: 50px solid transparent;
+        border-top-color: #d3eee7;
+    }
+
+    .diamond::before {
+        top: -50px;
+    }
+
+    .diamond .img_icons {
+        line-height: 100px;
+    }
+
+    span.amount, span.site_te {
+        font-size: 14px;
+    }
+
+    .plans_bg {
+        background-position: center 56px;
+        margin-bottom: 20px;
+    }
+
+    .referral_col .robo_img .img-fluid {
+        max-width: 120px;
+    }
+
+    .ref_comm.bg_img .dia::after {
+        width: 160%;
+        top: -35px;
+        left: 45px;
+    }
+
+    ul.footer_menu a {
+        font-size: 12px;
+        padding-left: 15px;
+    }
+
+    .address {
+        width: 120px;
+    }
+
+    .footer-inner .footer_top {
+        padding: 30px 0;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .top_menu .text {
+        display: none;
+    }
+
+    .onlymobile {
+        display: block !important;
+    }
+
+    .our_plans .col-12.left.d-flex {
+        display: block !important;
+    }
+
+    .top_menu li a.btn.tab_stye .fa {
+
+        display: block;
+        font-size: 12px;
+        line-height: 3px;
+        color: #fec401;
+        position: relative;
+        top: 11px;
+    }
+
+    .top_menu li a.btn.tab_stye {
+        font-size: 0;
+        line-height: 30px;
+        width: 30px;
+        height: 30px;
+        padding: 0;
+        background-color: transparent;
+        border: solid 1px #fec401;
+    }
+
+    span.text {
+        font-size: 0;
+    }
+
+    .head_section .col-sm-9.col-6 {
+        padding: 0;
+    }
+
+    .text_con {
+        font-size: 16px;
+    }
+
+    .banner_contents {
+        height: 200px;
+    }
+
+    .profit_calc .col-6 {
+        padding: 0;
+        display: grid !important;
+    }
+
+    .profit_calc .col-5 select {
+        font-size: 12px;
+        background-size: 5%;
+    }
+
+    .profit_calc .col-2 img {
+        max-width: 100%;
+    }
+
+    .profit_calc .col-5, .profit_calc .col-2 {
+        max-width: 100%;
+        flex: 0 0 100%;
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .profit_calc select.form-control, .invest_n {
+        display: block !important;
+    }
+
+    .profit_calc .col-6 {
+        width: 100%;
+        max-width: 100%;
+        text-align: left !important;
+    }
+
+    .site_sec .col-sm-2 {
+        max-width: 46%;
+        flex: 0 0 46%;
+        display: inline-block;
+    }
+
+    .site_sec .d-flex {
+        display: block !important;
+        text-align: center;
+    }
+
+    .referral_col .robo_img .img-fluid {
+        max-width: 80px;
+    }
+
+    .ref_comm.bg_img .dia::after {
+        width: 100%;
+        top: -23px;
+        left: 51px;
+    }
+
+    .tran_his thead th {
+        font-size: 10px;
+    }
+
+    .tran_his tbody td {
+        font-size: 12px;
+    }
+
+    .footer_top .col-6 {
+        max-width: 100%;
+        flex: 0 0 100%;
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .footer_col .d-flex .col-6 {
+        max-width: 100%;
+    }
+
+    .footer_top .col-sm-3 {
+        max-width: 50%;
+        flex: 0 0 50%;
+    }
+}
+
+@media (max-width: 575px) {
+    .text_con p.text_con {
+        font-size: 15px;
+    }
+
+    .banner_contents {
+        height: 180px;
+    }
+
+    a.btn.theme_btn {
+        width: 97.6px;
+        height: 25px;
+        line-height: 25px;
+        font-size: 12px;
+    }
+
+    .follow_us li {
+        margin-right: 5px;
+    }
+
+    .follow_us li a {
+        width: 22px;
+        height: 22px;
+        line-height: 18px;
+    }
+
+    .follow_us li a img {
+        max-width: 10px;
+    }
+
+    .banner_img.wow.fadeInUp {
+        display: grid;
+        height: 175px;
+        align-content: center;
+    }
+
+    .bg_color {
+        padding: 30px 0;
+    }
+
+    .pro_per li {
+        font-size: 12px;
+    }
+
+    .profit_calc .col-6.text-right {
+        text-align: left !important;
+    }
+
+    .about_us_sec, .our_plans {
+        padding: 30px 0;
+    }
+
+    .about_us_content {
+        padding: 0 15px;
+    }
+
+    .about_img {
+        max-width: 100%;
+    }
+
+    .site_sec .d-flex {
+        display: block !important;
+    }
+
+    .site_sec .col-sm-2 {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+
+    .plans_bg {
+        background-position: center 60px;
+        margin-bottom: 20px;
+        background-color: #607D8B;
+        background-image: none;
+    }
+
+    .ref_comm.bg_img .dia::after {
+        content: none;
+    }
+
+    .ref_c_lvl, .lvl_title {
+        margin: 15px 0;
+    }
+
+    .referral_col .robo_img .img-fluid {
+        max-width: 100px;
+    }
+
+    .ref_c_lvl .gray_but {
+        line-height: 32px;
+        height: 32px;
+        max-width: 40%;
+        font-size: 20px;
+    }
+
+    div#nav-tab a.nav-item {
+        font-size: 16px;
+        line-height: 45px;
+        width: 120px;
+        height: 45px;
+    }
+
+    .footer_logo .follow_us a {
+        line-height: 18px;
+    }
+
+    .footer-inner .footer_top {
+        padding: 20px 0;
+    }
+
+    .tran_his thead th {
+        font-size: 11px;
+    }
+
+    .plans_bg {
+        max-width: 55%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
