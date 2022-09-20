@@ -78,6 +78,8 @@
 /* font-family: 'Open Sans', sans-serif; */
 body {
     font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
+    width: 100%;
 }
 
 
@@ -152,6 +154,7 @@ span.money_icon img {
     animation-name: stickySlideDown;
     padding: 0;
     transition: none;
+    width:93%;
 }
 
 @-webkit-keyframes stickySlideDown {
@@ -183,6 +186,7 @@ span.money_icon img {
 
 .animated-line-effect {
     top: 5%;
+    overflow: hidden;
 }
 
 .animated-line-effect svg {
@@ -1403,3 +1407,6 @@ a.forgt_pass {
     border-top-right-radius: 0;
     border-bottom-right-radius: 0;
 }
+
+
+/* MEDIA QUERIES */
